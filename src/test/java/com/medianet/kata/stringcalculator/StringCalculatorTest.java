@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import com.medianet.kata.stringcalculator.StringCalculator;
 
-public class BowlingGameTest {
+public class StringCalculatorTest {
 
     private static final String STRING_TWENTY_ANY_NUMBERS = "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2";
 
